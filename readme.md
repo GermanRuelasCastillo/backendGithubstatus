@@ -36,13 +36,3 @@ npm run start
 ```
 npm run test
 ```
-
-## Linting
-
-```
-# run linter
-npm run lint
-
-# fix lint issues
-npm run lint:fix
-```
